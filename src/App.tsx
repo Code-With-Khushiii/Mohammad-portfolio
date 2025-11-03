@@ -158,7 +158,7 @@ function App() {
           <div className={`text-center transform transition-all duration-1000 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`}>
             <div className="mb-12">
               <img 
-                src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
+                src="/images/picture.jpeg"
                 alt="Mohammad Khan"
                 className="w-32 h-32 md:w-40 md:h-40 rounded-full mx-auto mb-6 md:mb-8 object-cover border-4 border-brown/30 shadow-lg"
               />
